@@ -19,7 +19,6 @@ textarea {
 }
 
 .form-group{
-  
   border-radius: 15px;
 }
 
@@ -76,6 +75,7 @@ textarea {
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
+  
 }
 
 .saveBtn i:hover {
